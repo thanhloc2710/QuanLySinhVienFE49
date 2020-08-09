@@ -169,5 +169,9 @@ var xoaSinhVien = function(maSV){
 }
 
 var hienThiThongTinSinhVien = function(){
-    console.log('user B, hien thi thong tin sinh vien')
+    console.log('user A, hien thi thong tin sinh vien')
+}
+
+var laySinhVienDiemCaoNhat = function(){
+    console.log('user A, lay sinh vien diem cao nhat')
 }
