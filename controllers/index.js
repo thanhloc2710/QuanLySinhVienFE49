@@ -274,9 +274,8 @@ var  hienThiThongTinSinhVien = function(){
 }
 var laythongtinSV = function(){
     console.log('userB , hiển thị tin sinh viên');
-
 }
 
 // test
-
+//test devb
 // console.log(axios);
