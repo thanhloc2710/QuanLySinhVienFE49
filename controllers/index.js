@@ -272,5 +272,11 @@ layDuLieuLocalStorage();
 var  hienThiThongTinSinhVien = function(){
     console.log('userB , hiển thị tin sinh viên');
 }
+var laythongtinSV = function(){
+    console.log('userB , hiển thị tin sinh viên');
+
+}
+
+// test
 
 // console.log(axios);
