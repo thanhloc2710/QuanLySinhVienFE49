@@ -175,3 +175,7 @@ var hienThiThongTinSinhVien = function(){
 var laySinhVienDiemCaoNhat = function(){
     console.log('user A, lay sinh vien diem cao nhat')
 }
+
+var DiemCaoNhat = function(){
+    console.log('user A, diem cao nhat')
+}
