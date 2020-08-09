@@ -167,3 +167,7 @@ var xoaSinhVien = function(maSV){
         console.log(error);
     })
 }
+
+var hienThiThongTinSinhVien = function(){
+    console.log('user B, hien thi thong tin sinh vien')
+}
