@@ -269,4 +269,8 @@ var layDuLieuLocalStorage = function(){
 }
 layDuLieuLocalStorage();
 
+var  hienThiThongTinSinhVien = function(){
+    console.log('userB , hiển thị tin sinh viên');
+}
+
 // console.log(axios);
